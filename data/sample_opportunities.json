@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Project A",
+    "feasibility": 8,
+    "upside": 7,
+    "alignment": 9,
+    "timing": 6
+  },
+  {
+    "name": "Project B",
+    "feasibility": 6,
+    "upside": 9,
+    "alignment": 7,
+    "timing": 8
+  },
+  {
+    "name": "Project C",
+    "feasibility": 9,
+    "upside": 6,
+    "alignment": 8,
+    "timing": 7
+  }
+]
